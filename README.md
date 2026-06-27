@@ -1,2 +1,3 @@
 # shorya_1
-my first repository
+My first githubrepository
+Author: Shorya Patel
